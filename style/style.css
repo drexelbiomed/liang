@@ -1,0 +1,37 @@
+BODY, P, TABLE, TD, TH, BR, DIV, SPAN
+{
+	font-family : Verdana, Arial, Helvetica;
+	font-size : 12px;
+	color: #000000;
+}
+
+H1 
+{
+	font-family : Verdana, Arial, Helvetica;
+	font-size : 22px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #3333cc;
+	text-align: left;
+}
+
+LI 
+{
+	font-family : Verdana, Arial, Helvetica;
+	font-size : 14px;
+	font-weight: none;
+	text-decoration: none;
+	color: brown;
+	text-align: left;
+}
+
+
+.resize {
+width: 200px;
+height : auto;
+}
+
+.resize {
+width: auto;
+height : 300px;
+}
